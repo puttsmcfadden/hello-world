@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-another hello world repository
+Hello world, here is my 
+addition to the world.
